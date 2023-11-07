@@ -1,0 +1,23 @@
+{
+  "name": "jsimp-helpers",
+  "version": "1.0.0",
+  "description": "Contains functions to make it easier to create a Web App",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gede-candra/jsimp-helpers.git"
+  },
+  "keywords": [
+    "jsimp-helper"
+  ],
+  "author": "Candra Wijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gede-candra/jsimp-helpers/issues"
+  },
+  "homepage": "https://github.com/gede-candra/jsimp-helpers#readme"
+}
